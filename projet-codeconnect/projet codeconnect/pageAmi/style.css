@@ -1,0 +1,30 @@
+.friendPage-box{
+background-color: black;
+border-radius: 15px;
+width: 80%;
+height: 100vw;
+}
+
+h1{
+    color: aliceblue;
+    margin: 3%;
+}
+
+.friendPage-content{
+    padding: 3%;
+}
+
+.friendPage-person{
+   background-color: grey; 
+   width: 10%;
+   height: 10vw;
+   padding: 2%;
+   border-radius: 15px;
+   text-align: center;
+}
+
+img{
+    width: 60%;
+    height: 45%;
+    border-radius: 50%;
+}
